@@ -1,0 +1,17 @@
+[
+  {
+    "model": "bZ4X",
+    "km_per_kwh": 5.8
+  },
+  {
+    "model": "EV_X",
+    "display": "TOYOTA EV_X",
+    "km_per_kwh": 6.0,
+    "battery_kwh": 58.0,
+    "csv_keywords": [],
+    "maint_per_year": 6000,
+    "warranty": "（原廠保固說法，請先向原廠確認）",
+    "lifestyle": "（主打的生活情境）",
+    "enabled": false
+  }
+]
